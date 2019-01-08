@@ -1,0 +1,23 @@
+section {
+    height: 100vh;
+    text-align: center;
+    line-height: 100vh;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#puppies {
+    background-color: #ffdddd;
+}
+
+#kittens {
+    background-color: #ddddff;
+}
+
+#company {
+    background-color: #ddffdd;
+}
+
+#contact {
+    background-color: #ffffdd;
+}
